@@ -1,6 +1,6 @@
 # Titanic-dataset-ML
 
-##A comparision on which ML model works better
+## A comparision on which ML model works better
 
 Dataset was obtained by Kaggle named “Titanic survival dataset”.
 The dataset contains 10 columns out of which we consider only 7 columns.
